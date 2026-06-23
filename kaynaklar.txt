@@ -1,0 +1,51 @@
+=== DOKÜMAN 1: PHILIPS LATTEGO ANA KULLANIM KILAVUZU ===
+Cihazın İlk Kurulumu ve Başlatılması:
+1. Güç kablosunu prize takın ve ana açma/kapama düğmesine basın.
+2. Kontrol panelindeki tüm simgeler sırayla yanacaktır. İlk kullanımda su sisteminin dolması gerekir.
+3. Sıcak su musluğunun altına bir kap yerleştirin. 'Başlat/Durdur' butonuna basın. Cihaz sistem temizliği için sıcak su akıtacaktır.
+4. Su haznesini MAX seviyesine kadar temiz su ile doldurun. Çekirdek haznesine kahve çekirdeklerini ekleyin.
+Kahve Hazırlama Adımları:
+1. İstediğiniz kahve türünün simgesine dokunun (Espresso, Kahve, Cappuccino veya Latte Macchiato).
+2. 'İçecek Ayarları' simgesine dokunarak kahve sertliğini (1 ila 3 kahve çekirdeği simgesi) ve miktarını ayarlayın.
+3. Sütlü bir içecek seçtiyseniz, LatteGo süt haznesini işaretli seviyeye kadar sütle doldurun ve cihaza takın.
+4. İçecek akışını başlatmak için 'Başlat/Durdur' butonuna basın. İçecek akarken durdurmak için yine aynı butona basabilirsiniz.
+
+=== DOKÜMAN 2: TEMİZLİK VE BAKIM REHBERİ ===
+Demleme Grubunun Temizlenmesi:
+1. Cihazı kapatın ve fişini çekin. Su haznesini çıkarın ve servis kapağını açın.
+2. Demleme grubunun üzerindeki PUSH düğmesine basarak grubu kendinize doğru çekerek çıkarın.
+3. Demleme grubunu musluk altında ılık suyla iyice durulayın. Sabun veya deterjan kesinlikle kullanmayın.
+4. Demleme grubunu haftada en az bir kez bu şekilde temizleyin ve açık havada kurumaya bırakın. Kurutmak için bez kullanmayın, lifler tıkanmaya yol açabilir.
+LatteGo Süt Sisteminin Temizlenmesi:
+1. Her kullanımdan sonra LatteGo sistemini hızlı temizleme (Quick Clean) adımıyla durulayın.
+2. Haftalık temizlik için LatteGo haznesini cihazdan çıkarın, iki parçayı birbirinden ayırın.
+3. Bulaşık makinesinde veya musluk altında ılık su ve biraz bulaşık deterjanı ile yıkayın.
+
+=== DOKÜMAN 3: AQUACLEAN FİLTRE DEĞİŞİM KILAVUZU ===
+AquaClean Filtresinin Etkinleştirilmesi:
+1. AquaClean filtresini kutusundan çıkarın ve yaklaşık 5 saniye boyunca sallayın.
+2. Filtreyi içi su dolu bir kaba ters şekilde batırın ve hava kabarcıkları çıkmayana kadar hafifçe sıkarak bekleyin.
+3. Filtreyi su haznesindeki AquaClean bağlantı noktasına dikey olarak bastırarak oturtun.
+4. Su haznesini temiz suyla doldurup cihaza geri takın.
+5. Kontrol panelindeki 'AquaClean' simgesine 3 saniye boyunca basın. Başlat/Durdur butonuna basarak filtre aktivasyon su akışını başlatın.
+Filtre Değişim Döngüsü:
+- Filtre simgesi %0 gösterdiğinde veya kırmızı renkte yanıp söndüğünde filtre ömrünü tamamlamıştır. Yeni filtreyle değiştirilmelidir. Cihaz toplamda 8 filtre değişimine kadar kireç çözme uyarısı vermez.
+
+=== DOKÜMAN 4: RESMİ KİREÇ ÇÖZME (DESCALING) PROSEDÜRÜ ===
+Kireç Çözme İşleminin Başlatılması (Süre: Yaklaşık 30 Dakika):
+1. Cihaz ekranında 'Calc/Clean' ışığı sabit yanmaya başladığında kireç çözme işlemi zorunludur.
+2. Süt haznesini (LatteGo) ve AquaClean su filtresini cihazdan kesinlikle çıkarın. damlama tepsisini ve atık kahve haznesini boşaltıp geri takın.
+3. Su haznesine Philips kireç çözücü sıvının tamamını dökün, ardından hazneyi Calc/Clean çizgisine kadar temiz suyla doldurun.
+4. Kahve ve su musluğunun altına en az 1.5 litrelik geniş bir kap yerleştirin.
+5. 'Calc/Clean' simgesine 3 saniye boyunca basılı tutun, ardından 'Başlat/Durdur' butonuna basarak döngüyü başlatın.
+Kireç Çözme Aşamaları:
+- 1. Aşama (Kireç Çözme): Cihaz aralıklarla sıcak su akıtarak kireç çözücü sıvıyı bitirir. Bu süreç 20 dakika sürer. Hazne boşaldığında su simgesi yanar.
+- 2. Aşama (Durulama): Su haznesini durulayın, MAX seviyesine kadar temiz suyla doldurun. Kabı boşaltıp tekrar musluğun altına koyun. Başlat/Durdur'a basarak durulamayı başlatın. Durulama bittiğinde Calc/Clean ışığı söner.
+
+=== DOKÜMAN 5: HATA KODLARI VE SORUN GİDERME TABLOSU ===
+Işıklı Uyarılar ve Dijital Hata Kodları Sembolleri:
+- Hata Kodu E01 (Öğütücü Tıkalı): Kahve kanalı kahve tozları nedeniyle tıkanmıştır. Cihazı kapatın, demleme grubunu çıkarın ve kahve kanalını bir kaşık sapıyla temizleyin.
+- Hata Kodu E04 (Demleme Grubu Yerleşmedi): Demleme grubu doğru pozisyonda değildir. Çıkarın, klik sesi gelene kadar yuvasına doğru itin.
+- Su Boş Simgesi Yanıyor: Su haznesi boş veya doğru yerleştirilmemiştir. Hazneyi doldurun ve tam oturduğundan emin olun.
+- Atık Haznesi Simgesi Yanıp Sönüyor: Atık kahve haznesi doludur. Cihaz AÇIK durumdayken hazneyi çıkarın, en az 5 saniye bekleyip boşaltarak geri takın. Cihaz kapalıyken boşaltırsanız sayaç sıfırlanmaz.
+- Ünlem İşareti Sabit Yanıyor: Cihazın içi kirlenmiş veya kapakları açık kalmıştır. Servis kapağını kontrol edin.
