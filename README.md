@@ -22,10 +22,10 @@ BaristaBot, cihaza ait resmi teknik dokümanları ve kılavuzları anlamsal par�
 * **OS & Re (Regex):** Veritabanı ayrıştırma, dosya yönetimi ve metin eşleştirme süreçleri.
 
 ## 🏗️ 5. Sistem Mimarisi ve İş Akışı
-1. **Veri Girişi:** Resmi kılavuz verileri `kaynaklar.txt` içerisinde `=== Bölüm Başlığı ===` formatında yapılandırılmıştır.
-2. **Bilgi Geri Çağırma (Retrieval):** Kullanıcı sorgusu alındığında, kelime bazlı ve akıllı filtreleme mekanizması çalışarak veritabanındaki en alakalı başlığı yakalar.
-3. **Güvenlik & Kapsam Kontrolü:** Sorgu kahve makinesi dışındaysa, sistem halüsinasyon görmeyi engelleyerek kullanıcıya uyarı verir.
-4. **Arayüz Sunumu:** Sonuçlar Streamlit arayüzünde kullanıcıya referans kaynağıyla birlikte gösterilir.
+1.**Veri Girişi:** Resmi kılavuz verileri `kaynaklar.txt` içerisinde `=== Bölüm Başlığı ===` formatında yapılandırılmıştır.
+2.**Bilgi Geri Çağırma (Retrieval):** Kullanıcı sorgusu alındığında, kelime bazlı ve akıllı filtreleme mekanizması çalışarak veritabanındaki en alakalı başlığı yakalar.
+3.**Güvenlik & Kapsam Kontrolü:** Sorgu kahve makinesi dışındaysa, sistem halüsinasyon görmeyi engelleyerek kullanıcıya uyarı verir.
+4.**Arayüz Sunumu:** Sonuçlar Streamlit arayüzünde kullanıcıya referans kaynağıyla birlikte gösterilir.
 
 ## 📦 6. Kurulum ve Çalıştırma Adımları
 Projenin yerel sunucuda çalıştırılması için terminale sırasıyla aşağıdaki komutlar yazılır :
@@ -33,6 +33,8 @@ Projenin yerel sunucuda çalıştırılması için terminale sırasıyla aşağ�
 pip install streamlit
 python -m streamlit run app.py
 
+## Proje Durumu
+Bu proje başarıyla tamamlanmış ve v1.0.0 final sürümüyle bütünleme teslimine hazır hale getirilmiştir.
 
 
 
