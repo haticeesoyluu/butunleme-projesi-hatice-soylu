@@ -126,3 +126,4 @@ if st.button("Asistana Sor"):
         st.error("Lütfen boş bir sorgu göndermeyin.")
 # Veri temizleme modülü ve veri seti islemleri.
 # RAG altyapisi ve yonetmelik dokuman analiz sistemi.
+# Streamlit arayuz tasarimi ve ekran ciktilari kontrolu.
