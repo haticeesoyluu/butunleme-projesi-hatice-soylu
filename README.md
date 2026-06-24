@@ -34,4 +34,4 @@ python -m streamlit run app.py
 
 Projenin çalışma mantığını, RAG mimarisini ve arayüz elementlerini detaylıca anlattığım videoya aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-👉 [**BUTUNLEME_TANITIM VİDEOSU'nu YouTube Üzerinden İzlemek İçin Tıklayın**](https://youtu.be/TlQCE77Qipw)
+👉 [BUTUNLEME_TANITIM VİDEOSU'nu YouTube Üzerinden İzlemek İçin Tıklayın](https://youtu.be/TlQCE77Qipw)
