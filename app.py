@@ -124,3 +124,4 @@ if st.button("Asistana Sor"):
                 st.success("ℹ️ Kaynak: Philips Lattego Resmi Teknik Kullanım Kılavuzu")
     else:
         st.error("Lütfen boş bir sorgu göndermeyin.")
+# Veri temizleme modülü ve veri seti islemleri.
