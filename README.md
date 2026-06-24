@@ -28,7 +28,7 @@ BaristaBot, cihaza ait resmi teknik dokümanları ve kılavuzları anlamsal par�
 4. **Arayüz Sunumu:** Sonuçlar Streamlit arayüzünde kullanıcıya referans kaynağıyla birlikte gösterilir.
 
 ## 📦 6. Kurulum ve Çalıştırma Adımları
-Projenin yerel sunucuda çalıştırılması için terminale sırasıyla aşağıdaki komutlar yazılır:
+Projenin yerel sunucuda çalıştırılması için terminale sırasıyla aşağıdaki komutlar yazılır :
 ```bash
 pip install streamlit
 python -m streamlit run app.py
