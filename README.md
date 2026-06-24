@@ -30,3 +30,8 @@ Projenin yerel sunucuda çalıştırılması için terminale sırasıyla aşağ�
 ```bash
 pip install streamlit
 python -m streamlit run app.py
+## 🎥 Proje Tanıtım Videosu
+
+Projenin çalışma mantığını, RAG mimarisini ve arayüz elementlerini detaylıca anlattığım videoya aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+👉 [**BUTUNLEME_TANITIM VİDEOSU'nu YouTube Üzerinden İzlemek İçin Tıklayın**](https://youtu.be/TlQCE77Qipw)
