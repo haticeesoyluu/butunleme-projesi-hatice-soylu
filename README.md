@@ -1,4 +1,5 @@
 # ☕ BaristaBot: Philips Lattego Uzman Bilgi Asistanı
+👉 [BUTUNLEME_TANITIM VİDEOSU'nu YouTube Üzerinden İzlemek İçin Tıklayın](https://youtu.be/TlQCE77Qipw)
 
 Bu proje, **Manisa Celal Bayar Üniversitesi Veri Bilimi ve Analitiği Bölümü** bütünleme değerlendirmesi kapsamında geliştirilmiş, **Philips Lattego** kahve makinelerine yönelik RAG (Retrieval-Augmented Generation) tabanlı bir uzman bilgi asistanıdır.
 
@@ -33,5 +34,5 @@ python -m streamlit run app.py
 ## 🎥 Proje Tanıtım Videosu
 
 Projenin çalışma mantığını, RAG mimarisini ve arayüz elementlerini detaylıca anlattığım videoya aşağıdaki bağlantıdan ulaşabilirsiniz:
-
 👉 [BUTUNLEME_TANITIM VİDEOSU'nu YouTube Üzerinden İzlemek İçin Tıklayın](https://youtu.be/TlQCE77Qipw)
+
