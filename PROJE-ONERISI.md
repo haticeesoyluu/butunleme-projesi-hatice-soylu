@@ -11,7 +11,7 @@ Tam otomatik kahve makinelerinin kullanım, periyodik bakım (kireç çözme, fi
 Evinde veya ofisinde Philips Lattego tam otomatik kahve makinesi kullanan ve teknik servis çağırmadan sorunları resmi kılavuz adımlarıyla hızlıca çözmek isteyen tüketiciler.
 
 ### Kullanılacak Veri veya Bilgi Kaynakları
-Philips Lattego resmi kullanım kılavuzları, temizlik/bakım dökümanları ve hata kodları listesini içeren `kaynaklar.txt` metin dökümanı.
+Philips Lattego resmi kullanım kılavuzları, temizlik/bakım dökümanları ve hata kodları listesini içeren `kaynaklar.txt` metin dökümanı
 
 ### Kullanılması Planlanan Teknolojiler
 * Python (Ana Programlama Dili)
