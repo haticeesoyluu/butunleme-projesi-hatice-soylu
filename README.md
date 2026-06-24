@@ -32,8 +32,7 @@ Projenin yerel sunucuda çalıştırılması için terminale sırasıyla aşağ�
 ```bash
 pip install streamlit
 python -m streamlit run app.py
-👉 [BUTUNLEME_TANITIM VİDEOSU'nu YouTube Üzerinden İzlemek İçin Tıklayın]
-https://youtu.be/TlQCE77Qipw
+<a href="https://youtu.be/TlQCE77Qipw">👉 ÇALIŞAN ÜRÜN VİDEOSUNU İZLEMEK İÇİN TIKLAYIN</a>
 
 
 
